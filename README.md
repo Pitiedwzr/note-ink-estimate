@@ -1,1 +1,6 @@
-# note_ink_estimate
+# note-ink-estimate
+## Todo
+- [x] Basic logic
+- [ ] Database
+- [ ] API
+- [ ] Docker
